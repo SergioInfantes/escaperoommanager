@@ -1,0 +1,13 @@
+__________________________________________________________________________________
+
+****** ***** *****     **     *****  ******    *****    *****    *****  *     *
+**     *     *        *  *    *    * **        *    *  *     *  *     * **   **
+*****  ***** *       ******   *****  *****     *****   *     *  *     * *  *  *
+**         * *      *      *  *      **        *   *   *     *  *     * *     *
+****** ***** ***** *        * *      ******    *    *   *****    *****  *     *
+__________________________________________________________________________________
+
+1) Este programa ha sido desarrollado con la versión Java 1.7.0_79
+2) Para ejecutar el programa, es necesario cambiar la extensión del archivo escaperoom.tar a escaperoom.jar
+3) Hacer doble click en escaperoom.jar para iniciar el programa
+
